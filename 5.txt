@@ -1,0 +1,18 @@
+Eu começo ligando o primeiro interruptor (que vou chamar de Interruptor 1) e deixo-o ligado por alguns minutos (cerca de 5 a 10 minutos).
+
+Depois, desligo o Interruptor 1 e ligo o Interruptor 2, enquanto deixo o Interruptor 3 desligado.
+
+Em seguida, vou até a sala das lâmpadas.
+
+Na sala das lâmpadas, eu verifico o seguinte:
+
+Se a lâmpada estiver acesa, ela é controlada pelo Interruptor 2 (o que acabei de ligar).
+Se a lâmpada estiver apagada, eu toco nela:
+Se ela estiver quente, significa que é controlada pelo Interruptor 1 (que deixei ligado por um tempo).
+Se ela estiver fria, é controlada pelo Interruptor 3 (que estava desligado o tempo todo).
+
+Lâmpada acesa → Interruptor 2.
+Lâmpada apagada e quente → Interruptor 1.
+Lâmpada apagada e fria → Interruptor 3.
+
+Dessa forma, consigo identificar qual interruptor controla qual lâmpada em apenas duas idas à sala das lâmpadas!
