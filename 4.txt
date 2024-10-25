@@ -1,0 +1,24 @@
+a) 1, 3, 5, 7, ___
+Lógica: Esta é uma sequência de números ímpares. Cada número é obtido somando 2 ao anterior.
+Próximo elemento: 9
+b) 2, 4, 8, 16, 32, 64, ____
+Lógica: Cada número é o dobro do anterior.
+Próximo elemento: 128
+c) 0, 1, 4, 9, 16, 25, 36, ____
+Lógica: Esta sequência consiste em números quadrados perfeitos (0², 1², 2², 3², 4², 5², 6²).
+Próximo elemento: 49 (7²)
+d) 4, 16, 36, 64, ____
+Lógica: Esta sequência é formada pelos quadrados dos números pares (2², 4², 6², 8²).
+Próximo elemento: 100 (10²)
+e) 1, 1, 2, 3, 5, 8, ____
+Lógica: Esta é a sequência de Fibonacci, onde cada número é a soma dos dois anteriores.
+Próximo elemento: 13
+f) 2, 10, 12, 16, 17, 18, 19, ____
+Lógica: A sequência parece alternar entre adicionar 8 e então adicionar 2 ou 1:
+2 + 8 = 10
+10 + 2 = 12
+12 + 4 = 16
+16 + 1 = 17
+17 + 1 = 18
+18 + 1 = 19
+Próximo elemento: 27 (continuando com +8 após a sequência de +1)
